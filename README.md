@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeff and I am fullstack developer at Reibase, Inc. I am currently developing our product, Solaris - a protocol to allow code maintainers to streamline development and incentivize better contributions. It can be found at [solaris.reibase.rs](https://solaris.reibase.rs) and a sandbox project for it can be found [here]("https://github.com/reibase/solaris-sandbox")
+My name is Jeff and I am fullstack developer at Reibase, Inc. I am currently developing our product, Solaris - a protocol to allow code maintainers to streamline development and incentivize better contributions. It can be found at [solaris.reibase.rs](https://solaris.reibase.rs) and a sandbox project for it can be found [here](https://github.com/reibase/solaris-sandbox).
 
 
 I am proficient in the PERN stack, functional with Docker and GraphQL, am familiar with React Native, and I love all things front end as I was an artist in a previous life.
