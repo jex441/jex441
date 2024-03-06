@@ -10,3 +10,7 @@ Another project I am proud of is Fairline Defense, pinned below, which was a fre
 - 👤 Have a user portal where user's could update their information 
 - 💳 Checkout and process subscription payments with Stripe
 - 📫 Send email and SMS notificiations 
+
+Get in touch with me at:
+- https://linkedin.com/in/jeffreylwood
+- jeffreywood.dev@gmail.com
