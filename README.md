@@ -9,4 +9,4 @@ Another project I am proud of is Fairline Defense, pinned below, which was a fre
 - Authenticate users
 - Have a user portal where user's could update their information
 - Checkout and process subscription payments with Stripe
-- Send email and SMS notificiations with Twilio
+- Send email and SMS notificiations
