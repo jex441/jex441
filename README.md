@@ -5,6 +5,8 @@ My name is Jeff and I am fullstack developer at Reibase, Inc. I am currently dev
 
 I am proficient in the PERN stack, functional with Docker and GraphQL, am familiar with React Native, and I love all things front end as I was an artist in a previous life.
 
+Currently learning: Typescript
+
 Another project I worked on last year was Fairline Defense, pinned below, which was for a client who needed a webapp which could: 
 - 🔒 Authenticate users
 - 👤 Have a user portal where user's could view and update their information 
