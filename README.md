@@ -1,7 +1,7 @@
 Hi there 👋
-My name is Jeff and I am fullstack developer at Reibase, Inc. I am currently developing our product, Solaris - a protocol to allow code maintainers to streamline development and incentivize better contributions. It is deployed here and a sandbox project for it can be found here.
+My name is Jeff and I am fullstack developer based in New York. Most recently I worked at Reibase Inc, an early stage startup backed by Techstars where I worked on our product, Solaris - a protocol to allow code maintainers to streamline development and incentivize better contributions.
 
-As a personal project I am also developing Selected-Work, an app for visual artists to quickly create and easily maintain custom looking portfolio websites: https://github.com/jex441/dash
+As a personal project I am also developing SelectedWork, an app for visual artists to quickly create and easily maintain custom looking portfolio websites: https://github.com/jex441/dash
 
 A new library I am enjoying right now is React DND Kit. Having implemented some drag and drop functionality in the past, I am aware how difficult in can be to implement. So far, DND Kit is a life saver. React DND Kit
 
