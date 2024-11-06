@@ -1,13 +1,13 @@
 Hi there 👋
-My name is Jeff and I am fullstack developer based in New York. Most recently I worked at Reibase Inc, an early stage startup backed by Techstars where I worked on our product, Solaris - a protocol to allow code maintainers to streamline development and incentivize better contributions.
 
-As a personal project I am also developing SelectedWork, an app for visual artists to quickly create and easily maintain custom looking portfolio websites:
-- Repo: https://github.com/jex441/dash
-- URL: https://selectedwork.net
+I'm Jeff, a full-stack developer based in New York, with recent experience at Reibase Inc., an early-stage, Techstars-backed startup. There, I contributed to building Solaris, a protocol designed to streamline development processes and incentivize higher-quality contributions for code maintainers.
 
-A new library I am enjoying right now is React DND Kit. Having implemented some drag and drop functionality in the past, I am aware how difficult in can be to implement. So far, DND Kit is a life saver. React DND Kit
+As a personal endeavor, I'm developing SelectedWork, an application enabling visual artists to efficiently create and maintain customized portfolio websites:
 
-Get in touch with me at:
+GitHub Repository: https://github.com/jex441/dash
+Live Application: https://selectedwork.net
 
-https://linkedin.com/in/jeffreylwood
-jeffreywood.dev@gmail.com
+Feel free to reach out:
+
+LinkedIn
+Email: jeffreywood.dev@gmail.com
