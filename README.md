@@ -9,5 +9,7 @@ Live Application: https://selectedwork.net
 
 Feel free to reach out:
 
-LinkedIn
+LinkedIn: https://linkedin.com/in/jeffrelywood
 Email: jeffreywood.dev@gmail.com
+
+https://jeffreylwood.com
